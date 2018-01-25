@@ -1039,7 +1039,7 @@ babel-plugin-jest-hoist@^22.1.0:
   version "22.1.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-jest-hoist/-/babel-plugin-jest-hoist-22.1.0.tgz#c1281dd7887d77a1711dc760468c3b8285dde9ee"
 
-babel-plugin-macros@2.0.0:
+babel-plugin-macros@2.0.0, babel-plugin-macros@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-2.0.0.tgz#fd3aee135f7dec0b82898b7c8f1aed6fa75f9af9"
   dependencies:
@@ -6096,7 +6096,7 @@ raf@3.4.0:
   dependencies:
     performance-now "^2.1.0"
 
-ramda@0.25.0:
+ramda@^0.25.0:
   version "0.25.0"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.25.0.tgz#8fdf68231cffa90bc2f9460390a0cb74a29b29a9"
 
@@ -6180,12 +6180,12 @@ react-error-overlay@5.0.0-next.9754a231:
   version "5.0.0-next.9754a231"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.0.0-next.9754a231.tgz#4af836bc7a605f23972b95367c895c7d7577067e"
 
-react-intl.macro@0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/react-intl.macro/-/react-intl.macro-0.2.1.tgz#a4586db64eb0af72d91975b90a79cbca545a303b"
+react-intl.macro@0.2.2:
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/react-intl.macro/-/react-intl.macro-0.2.2.tgz#d9337fee0b3aa7a0194591f577f4e8265ad69aa3"
   dependencies:
-    babel-plugin-macros "2.0.0"
-    ramda "0.25.0"
+    babel-plugin-macros "^2.0.0"
+    ramda "^0.25.0"
 
 react-intl@2.4.0:
   version "2.4.0"

@@ -8636,10 +8636,10 @@ react-error-overlay@^5.1.2:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.1.2.tgz#888957b884d4b25b083a82ad550f7aad96585394"
   integrity sha512-7kEBKwU9R8fKnZJBRa5RSIfay4KJwnYvKB6gODGicUmDSAhQJ7Tdnll5S0RLtYrzRfMVXlqYw61rzrSpP4ThLQ==
 
-react-intl.macro@0.2.4:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/react-intl.macro/-/react-intl.macro-0.2.4.tgz#0e00337a0226dfc49a5f7c870d5d09f608b9b2a6"
-  integrity sha512-r7jQjqfBNBh37I0GVCyUIaQdIJJSI1I9nOm1LzWrHd3igCBf3kaWHSqsKGrGgxbf2TBfeWigobsTNS3h/LSf7A==
+react-intl.macro@0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/react-intl.macro/-/react-intl.macro-0.3.1.tgz#05ba673a1ccd7a18e2f85b0ed0ea83d430d692ee"
+  integrity sha512-QJVlqgqA9XGoSaGuhcFGLiMbjVP937DdCsgDNwyG3SpxD/eOGCIY5M5VxHg4mZzXpWUfOaEN4wXZPsLWKo74Tg==
   dependencies:
     babel-flow-types "^1.2.3"
     babel-plugin-macros "^2.4.5"

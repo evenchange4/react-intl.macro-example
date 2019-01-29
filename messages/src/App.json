@@ -1,7 +1,5 @@
-[
-  {
-    "id": "Component.welcome",
-    "defaultMessage": "Welcome to React",
-    "description": "title"
-  }
-]
+[{
+  "id": "Component.welcome",
+  "defaultMessage": "Welcome to React",
+  "description": "title"
+}]

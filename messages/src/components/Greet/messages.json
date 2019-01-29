@@ -1,7 +1,5 @@
-[
-  {
-    "id": "Component.greet",
-    "defaultMessage": "Hello, {name}!",
-    "description": "Greeting to welcome the user to the app"
-  }
-]
+[{
+  "id": "Component.greet",
+  "defaultMessage": "Hello, {name}!",
+  "description": "Greeting to welcome the user to the app"
+}]

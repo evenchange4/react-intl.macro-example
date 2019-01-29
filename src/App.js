@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { injectIntl } from 'react-intl';
 import { defineMessages } from 'react-intl.macro';
 import Greet from './components/Greet/Greet';
+import Body from './components/Body';
 import logo from './logo.svg';
 import './App.css';
 
@@ -23,6 +24,7 @@ class App extends Component {
             {this.props.intl.formatMessage(messages.welcome)}
           </h1>
         </header>
+        <Body />
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
